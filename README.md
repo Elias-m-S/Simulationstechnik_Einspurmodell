@@ -15,12 +15,12 @@ Das Projekt ist in fünf Kernaufgaben unterteilt:
 
 | Datei | Beschreibung |
 | :--- | :--- |
-| `Programmentwurf_TSA_2369656.mlx` | Haupt-Live-Script: Steuert alle Simulationen und die Optimierung. |
-| `Aufgabe3_Simulink.slx` | Zentrales Simulink-Modell für den Vergleich und die Co-Simulation. |
+| `Programmentwurf_Simulationstechnik.mlx` | Haupt-Live-Script: Steuert alle Simulationen und die Optimierung. |
+| `Simulink.slx` | Zentrales Simulink-Modell für den Vergleich und die Co-Simulation. |
 
 ## Installation & Ausführung
 
 1. Klonen Sie das Repository oder laden Sie die Dateien herunter.
 2. Stellen Sie sicher, dass MATLAB und Simulink installiert sind.
-3. Öffnen Sie das Live Script `Programmentwurf_TSA_2369656.mlx`.
+3. Öffnen Sie das Live Script `Programmentwurf_Simulationstechnik.mlx`.
 4. Führen Sie die Sektionen nacheinander aus. Das Skript ruft die zugehörigen Simulink-Modelle automatisch im Hintergrund auf.
